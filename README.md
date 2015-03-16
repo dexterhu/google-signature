@@ -3,8 +3,6 @@ node-google-signature
 Generate a HMAC-SHA1 signature for "Google Maps API for Business" in node.js
 
 
-[![Build Status](https://travis-ci.org/jcnade/node-google-signature.png)](https://travis-ci.org/jcnade/node-google-signature)
-
 
 Generate a signature from a private key and a string:
 
@@ -23,3 +21,5 @@ Generate a signature from a private key and a string:
 ### URL Signing Debugger
 
 https://m4b-url-signer.appspot.com/
+=======
+# google-signature
