@@ -9,16 +9,6 @@
   "scripts": {
     "test": "mocha test/*.js"
   },
-  "bin": {
-    "sugar": "./bin/sugar"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/jcnade/node-google-signature.git"
-  },
-  "keywords": [
-    "google maps for Entreprise"
-  ],
   "dependencies": {
     "crypto": "0.0.3",
     "urlsafe-base64": "0.0.2"
@@ -26,8 +16,5 @@
   "devDependencies": {
     "mocha": "",
     "should": ""
-  },
-  "author": "Jean-Charles Nadé",
-  "license": "MIT",
-  "readmeFilename": "README.md"
+  }
 }
