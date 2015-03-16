@@ -1,5 +1,5 @@
 {
-  "name": "node-google-signature",
+  "name": "google-signature",
   "version": "0.1.0",
   "description": "Generate a HMAC-SHA1 signature in node.js for Google Maps API for Business",
   "main": "index.js",
